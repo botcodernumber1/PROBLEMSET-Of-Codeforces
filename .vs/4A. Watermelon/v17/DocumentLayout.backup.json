@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\MERGE BD OPC\\Services\\BOT_CODER\\Problem_Solving\\Codeforces\\4A. Watermelon\\4A. Watermelon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FB4A825-2D16-4BF1-90DD-9A0B8B23BF63}|4A. Watermelon\\4A. Watermelon.csproj|j:\\merge bd opc\\services\\bot_coder\\problem_solving\\codeforces\\4a. watermelon\\4a. watermelon\\4a. watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FB4A825-2D16-4BF1-90DD-9A0B8B23BF63}|4A. Watermelon\\4A. Watermelon.csproj|solutionrelative:4a. watermelon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "J:\\MERGE BD OPC\\Services\\BOT_CODER\\Problem_Solving\\Codeforces\\4A. Watermelon\\4A. Watermelon\\4A. Watermelon\\Program.cs",
+              "RelativeDocumentMoniker": "4A. Watermelon\\Program.cs",
+              "ToolTip": "J:\\MERGE BD OPC\\Services\\BOT_CODER\\Problem_Solving\\Codeforces\\4A. Watermelon\\4A. Watermelon\\4A. Watermelon\\Program.cs",
+              "RelativeToolTip": "4A. Watermelon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:58:54.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
